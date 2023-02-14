@@ -17,3 +17,6 @@ def hi_2(b: str):
 b = "hello linux"
 
 print(hi_2(b))
+
+
+print('Исправил баг')
